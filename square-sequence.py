@@ -10,3 +10,6 @@ Given the perimeter of the shape, you are to find the number of squares used.
 n = int(input())
 
 print(int(n / 2 - 1))
+
+# One line solution:
+# print(int(int(input()) / 2 - 1))

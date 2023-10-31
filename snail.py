@@ -18,3 +18,6 @@ while height > 0:
     height += 3
 
 print(day)
+
+# One line solution:
+# print(int(input()) / 2 - 1)
